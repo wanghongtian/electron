@@ -11,7 +11,6 @@ gclient_gn_args = [
   'checkout_google_benchmark',
   'mac_xcode_version',
 ]
-
 vars = {
   'chromium_version':
     '90.0.4415.0',
